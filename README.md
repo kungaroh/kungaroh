@@ -18,11 +18,12 @@ Here you can view some of the projects that I've worked on!
 ## Projects/Portfolio
 If you would like to view my portfolio of games then you can view this at:
 https://kungaroh.itch.io
+
 You can probably tell I'm not a designer...
 
 ## Contact Me
-If you have any feedback, or would like to get in touch for anything you can contact me by email at henryvarley14+contact@gmail.com
-
+If you have any feedback, or would like to get in touch for anything you can contact me by email
+📫 henryvarley14+contact@gmail.com
 <!--
 **Iths567/Iths567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
