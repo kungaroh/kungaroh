@@ -6,21 +6,19 @@ Here you can view some of the projects that I've worked on!
 
 ### Some Languages I've used
 
-|Rank|Languange|
-|---:|---------|
-|   1|C#|
-|2   |Javascript|
-|3|HTML|
-|4|Python|
-|5|CSS|
-|6|C++|
+|Item|Languange |
+|---:|----------|
+|   1|        C#|
+|   2|Javascript|
+|   3|      HTML|
+|   4|    Python|
+|   5|       CSS|
+|   6|       C++|
 
 ## Projects/Portfolio
 If you would like to view my portfolio of games then you can view this at:
 https://kungaroh.itch.io
-
-This portfolio is a work in progress so will look a bit baron - additionally I'm attempting to streamline everything after I've already given here as a landing page of sorts!
-
+You can probably tell I'm not a designer...
 
 ## Contact Me
 If you have any feedback, or would like to get in touch for anything you can contact me by email at henryvarley14+contact@gmail.com
