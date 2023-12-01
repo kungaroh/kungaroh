@@ -27,10 +27,16 @@ If you would like to view my portfolio of games then you can view this at:
 https://kungaroh.itch.io
 
 Alternatively you can view the code for the projects in the github repository of the same name e.g. `bubble sort` game will be in the `bubble sort` repository
+If you're a bit short on time, at the bottom of this page is a short game I have made that you can play!
 
 ## Contact Me
 If you have any feedback, or would like to get in touch for anything you can contact me by email
 📫 henryvarley14+contact@gmail.com
+
+## Game
+
+<iframe height="167" frameborder="0" src="https://itch.io/embed/2396759" width="552"><a href="https://kungaroh.itch.io/tropical-drop">Tropical Drop by Kungaroh | Henry</a></iframe>
+
 <!--
 **Iths567/Iths567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
