@@ -24,12 +24,15 @@ Here you can view some of the projects that I've worked on!
 |   6|       C++|
 
 ## Projects/Portfolio
-<Picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
- <source media="(prefers-color-scheme: light)" srcset="https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset=":https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="800" height="600">
+ <source media="(prefers-color-scheme: light)" srcset="https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="800" height="600">
+ <img alt="Portfolio Word on Black Background " src="https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg">
+</picture> 
+
 If you would like to view my portfolio of games then you can view this at:
 https://kungaroh.itch.io
-</Picture>
+
 
 Alternatively you can view the code for the projects in the github repository of the same name e.g. `bubble sort` game will be in the `bubble sort` repository
 
