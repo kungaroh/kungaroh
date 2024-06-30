@@ -8,7 +8,7 @@
 
     
 ## About Me
-Hi there 👋 I'm Henry, and a second year games development student. 
+Hi there 👋 I'm Henry, and a game developer/programmer. 
 Here you can view some of the projects that I've worked on!
 
 ### Some Languages I've used
