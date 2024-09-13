@@ -25,7 +25,7 @@ Here you can view some of the projects that I've worked on!
 
 ## Projects/Portfolio
 <picture>
- [<img alt="Portfolio Word on Black Background " src="pexels-photo-14936128.jpeg">](https://kungaroh.itch.io/)
+ [<img src="pexels-photo-14936128.jpeg">](https://kungaroh.itch.io)
 </picture> 
 
 If you would like to view my portfolio of games then you can view this at:
