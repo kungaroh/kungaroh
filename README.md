@@ -24,9 +24,9 @@ Here you can view some of the projects that I've worked on!
 |   6|       C++|
 
 ## Projects/Portfolio
-<picture>
- [<img src="pexels-photo-14936128.jpeg">](https://kungaroh.itch.io)
-</picture> 
+
+[<img src="pexels-photo-14936128.jpeg">](https://kungaroh.itch.io)
+ 
 
 If you would like to view my portfolio of games then you can view this at:
 https://kungaroh.itch.io
