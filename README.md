@@ -25,7 +25,7 @@ Here you can view some of the projects that I've worked on!
 
 ## Projects/Portfolio
 
-[<img alt="an image showing the word `portfolio` in large letters" src="pexels-photo-14936128.jpeg">](https://kungaroh.itch.io)
+[<img alt="an image showing the word 'portfolio' in large letters" src="pexels-photo-14936128.jpeg">](https://kungaroh.itch.io)
  
 
 If you would like to view my portfolio of games then you can view this at:
