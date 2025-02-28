@@ -1,38 +1,28 @@
-# Welcome To My Github Profile!
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif">
- <img alt="a gif with welcome in bold in the centre with the night sky and meteors flying behind it" src="https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif">
-</picture>
+# Welcome To My Github Profile
 
     
-## About Me
 Hi there 👋 I'm Henry, and a game developer/programmer. 
 Here you can view some of the projects that I've worked on!
 
 ### Some Languages I've used
 (In no particular order)
 
-|Item|Languange |
-|---:|----------|
-|   1|        C#|
-|   2|Javascript|
-|   3|      HTML|
-|   4|    Python|
-|   5|       CSS|
-|   6|       C++|
+- C#
+- Javascript
+- HTML
+- Python
+- CSS
+- C++
 
 ## Projects/Portfolio
 
-[<img alt="an image showing the word 'portfolio' in large letters" src="pexels-photo-14936128.jpeg">](https://kungaroh.itch.io)
+[<img src="https://github.com/kungaroh/kungaroh.github.io/blob/main/gameCollection.png" width = 50% height = 50%>](https://kungaroh.github.io)
  
 
 If you would like to view my portfolio of games then you can view this at:
-https://kungaroh.itch.io
+https://kungaroh.github.io
 
-
-Alternatively you can view the code for the projects in the github repository of the same name e.g. `bubble sort` game will be in the `bubble sort` repository
+You can find the source code for the projects marked `Source` through the link on their page, or you can find it directly through my GitHub account!
 
 
 <!--
